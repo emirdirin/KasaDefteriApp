@@ -4,6 +4,7 @@ Kasa Defteri, küçük işletmeler ve bireysel kullanıcılar için geliştirilm
 Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
 
 🚀 Özellikler
+
 🔐 Giriş Sistemi
 
 Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
