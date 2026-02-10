@@ -5,9 +5,11 @@ Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
 
 🚀 Özellikler
 
+
 🔐 Giriş Sistemi
 
 Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
+
 
 💰 Kasa Yönetimi
 
@@ -16,6 +18,7 @@ Yeni kasa oluşturma
 Kasa silme
 
 Kasa içeriklerini görüntüleme
+
 
 📊 İşlem Yönetimi
 
@@ -29,6 +32,7 @@ Gider (Çıkan) işlemi ekleme
 
 Rapor görüntüleme
 
+
 📈 Filtreleme ve Görüntüleme
 
 Tarihe göre filtreleme
@@ -39,11 +43,13 @@ Sadece gelir veya gider listeleme
 
 Toplam bakiye görüntüleme
 
+
 🧾 Raporlama
 
 Seçili tarihler arasında toplam giren, toplam çıkan ve toplam bakiyeyi görüntüleme
 
 Rapor yazdırma desteği
+
 
 🛠 Kullanılan Teknolojiler
 
@@ -56,6 +62,7 @@ Entity Framework Core
 SQLite
 
 .NET
+
 
 📥 Kurulum ve Kullanım
 
@@ -71,15 +78,18 @@ Varsayılan şifre ile giriş yapın.
 
 Kasa oluşturarak gelir gider takibi yapabilirsiniz.
 
+
 📁 Veri Saklama
 
 Uygulama verileri SQLite veritabanında saklanmaktadır.
 Program ilk çalıştırıldığında veritabanı otomatik oluşturulur.
 
+
 🎨 Kullanılan İkonlar
 
 Bu uygulamada kullanılan ikonlar Icons8 tarafından sağlanmıştır.
 https://icons8.com
+
 
 👨‍💻 Geliştirici
 
