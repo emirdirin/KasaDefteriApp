@@ -35,6 +35,7 @@
             passwordBox = new TextBox();
             passwordLabel = new Label();
             panelBottom = new Panel();
+            label2 = new Label();
             labelButtom = new Label();
             buttonGiris = new Button();
             ımageList1 = new ImageList(components);
@@ -84,19 +85,32 @@
             // panelBottom
             // 
             panelBottom.BackColor = Color.Honeydew;
+            panelBottom.Controls.Add(label2);
             panelBottom.Controls.Add(labelButtom);
-            panelBottom.Location = new Point(-1, 405);
+            panelBottom.Location = new Point(-1, 390);
             panelBottom.Name = "panelBottom";
-            panelBottom.Size = new Size(481, 33);
+            panelBottom.Size = new Size(481, 55);
             panelBottom.TabIndex = 4;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Microsoft Sans Serif", 7.25F);
+            label2.ForeColor = SystemColors.ActiveCaptionText;
+            label2.Location = new Point(13, 34);
+            label2.Name = "label2";
+            label2.Size = new Size(461, 16);
+            label2.TabIndex = 2;
+            label2.Text = "Bu uygulamada kullanılan ikonlar Icons8 tarafından sağlanmıştır – icons8.com";
             // 
             // labelButtom
             // 
             labelButtom.AutoSize = true;
+            labelButtom.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point, 162);
             labelButtom.ForeColor = SystemColors.ActiveCaptionText;
-            labelButtom.Location = new Point(15, 7);
+            labelButtom.Location = new Point(13, 14);
             labelButtom.Name = "labelButtom";
-            labelButtom.Size = new Size(231, 20);
+            labelButtom.Size = new Size(236, 20);
             labelButtom.TabIndex = 1;
             labelButtom.Text = "© 2025 Kasa Defteri Uygulaması. ";
             // 
@@ -221,5 +235,6 @@
         private Label label1;
         private ImageList ımageList1;
         private Label labelButtom;
+        private Label label2;
     }
 }
