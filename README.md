@@ -1,10 +1,9 @@
-KASA DEFTERİ UYGULAMASI
+📌 Kasa Defteri Uygulaması
 
 Kasa Defteri, küçük işletmeler ve bireysel kullanıcılar için geliştirilmiş günlük gelir – gider takip uygulamasıdır.
 Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
 
-- Özellikler
-
+🚀 Özellikler
 🔐 Giriş Sistemi
 
 Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
@@ -63,7 +62,7 @@ Releases bölümünden en güncel sürümü indirin.
 
 ZIP dosyasını bilgisayarınıza çıkarın.
 
-Klasör içindeki KasaDefteriApp.exe dosyasını çalıştırın.
+Klasör içindeki KasaDefteri.exe dosyasını çalıştırın.
 
 Varsayılan şifre ile giriş yapın.
 
@@ -82,4 +81,5 @@ Bu uygulamada kullanılan ikonlar Icons8 tarafından sağlanmıştır.
 https://icons8.com
 
 👨‍💻 Geliştirici
+
 Emir Dirin
