@@ -63,7 +63,7 @@ Releases bölümünden en güncel sürümü indirin.
 
 ZIP dosyasını bilgisayarınıza çıkarın.
 
-Klasör içindeki KasaDefteri.exe dosyasını çalıştırın.
+Klasör içindeki KasaDefteriApp.exe dosyasını çalıştırın.
 
 Varsayılan şifre ile giriş yapın.
 
