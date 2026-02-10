@@ -1,96 +1,96 @@
 📌 Kasa Defteri Uygulaması
 
-Kasa Defteri, küçük işletmeler ve bireysel kullanıcılar için geliştirilmiş günlük gelir – gider takip uygulamasıdır.
-Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
+  Kasa Defteri, küçük işletmeler ve bireysel kullanıcılar için geliştirilmiş günlük gelir – gider takip uygulamasıdır.
+  Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
 
 🚀 Özellikler
 
 
 🔐 Giriş Sistemi
 
-Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
+  Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
 
 
 💰 Kasa Yönetimi
 
-Yeni kasa oluşturma
+  Yeni kasa oluşturma
 
-Kasa silme
+  Kasa silme
 
-Kasa içeriklerini görüntüleme
+  Kasa içeriklerini görüntüleme
 
 
 📊 İşlem Yönetimi
 
-Kasa içerisine girildiğinde:
+  Kasa içerisine girildiğinde:
 
-Gelir (Giren) işlemi ekleme
+  Gelir (Giren) işlemi ekleme
 
-Gider (Çıkan) işlemi ekleme
+  Gider (Çıkan) işlemi ekleme
 
-İşlem silme
+  İşlem silme
 
-Rapor görüntüleme
+  Rapor görüntüleme
 
 
 📈 Filtreleme ve Görüntüleme
 
-Tarihe göre filtreleme
+  Tarihe göre filtreleme
 
-İşlem arama
+  İşlem arama
 
-Sadece gelir veya gider listeleme
+  Sadece gelir veya gider listeleme
 
-Toplam bakiye görüntüleme
+  Toplam bakiye görüntüleme
 
 
 🧾 Raporlama
 
-Seçili tarihler arasında toplam giren, toplam çıkan ve toplam bakiyeyi görüntüleme
+  Seçili tarihler arasında toplam giren, toplam çıkan ve toplam bakiyeyi görüntüleme
 
-Rapor yazdırma desteği
+  Rapor yazdırma desteği
 
 
 🛠 Kullanılan Teknolojiler
 
-C#
+  C#
 
-Windows Forms
+  Windows Forms
 
-Entity Framework Core
+  Entity Framework Core
 
-SQLite
+  SQLite
 
-.NET
+  .NET
 
 
 📥 Kurulum ve Kullanım
 
-Releases bölümünden en güncel sürümü indirin.
+  Releases bölümünden en güncel sürümü indirin.
 
-ZIP dosyasını bilgisayarınıza çıkarın.
+  ZIP dosyasını bilgisayarınıza çıkarın.
 
-Klasör içindeki KasaDefteriApp.exe dosyasını çalıştırın.
+  Klasör içindeki KasaDefteriApp.exe dosyasını çalıştırın.
 
-Varsayılan şifre ile giriş yapın.
+  Varsayılan şifre ile giriş yapın.
 
-👉 Varsayılan şifre: 2365
+  👉 Varsayılan şifre: 2365
 
-Kasa oluşturarak gelir gider takibi yapabilirsiniz.
+  Kasa oluşturarak gelir gider takibi yapabilirsiniz.
 
 
 📁 Veri Saklama
 
-Uygulama verileri SQLite veritabanında saklanmaktadır.
-Program ilk çalıştırıldığında veritabanı otomatik oluşturulur.
+  Uygulama verileri SQLite veritabanında saklanmaktadır.
+  Program ilk çalıştırıldığında veritabanı otomatik oluşturulur.
 
 
 🎨 Kullanılan İkonlar
 
-Bu uygulamada kullanılan ikonlar Icons8 tarafından sağlanmıştır.
-https://icons8.com
+  Bu uygulamada kullanılan ikonlar Icons8 tarafından sağlanmıştır.
+  https://icons8.com
 
 
 👨‍💻 Geliştirici
 
-Emir Dirin
+  Emir Dirin
