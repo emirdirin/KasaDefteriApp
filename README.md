@@ -1,9 +1,10 @@
-Kasa Defteri Uygulaması
+KASA DEFTERİ UYGULAMASI
 
 Kasa Defteri, küçük işletmeler ve bireysel kullanıcılar için geliştirilmiş günlük gelir – gider takip uygulamasıdır.
 Kullanıcılar kasalar oluşturarak finansal işlemlerini kolayca yönetebilir.
 
 - Özellikler
+
 🔐 Giriş Sistemi
 
 Uygulamaya önceden tanımlanmış şifre ile giriş yapılır.
